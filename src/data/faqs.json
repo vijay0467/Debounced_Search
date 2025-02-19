@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "question": "What is React?",
+      "answer": "React is a JavaScript library for building user interfaces."
+    },
+    {
+      "id": 2,
+      "question": "What is a Component in React?",
+      "answer": "A component is a reusable piece of UI that can manage its own state and logic."
+    },
+    {
+      "id": 3,
+      "question": "What is State in React?",
+      "answer": "State is a built-in object that stores property values that belong to a component."
+    }
+  ]
+  
